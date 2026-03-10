@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-12-24 13:21:21",
+  "test_type": "Performance Benchmark",
+  "timing": {
+    "segmentation": 0.5090394020080566,
+    "3d_reconstruction": 4.996017217636108,
+    "visualization": 1.1764097213745117,
+    "html_generation": 0.014623880386352539
+  },
+  "total_time": 6.696090221405029,
+  "average_time_per_step": 1.6740225553512573,
+  "optimizations": [
+    "float32 dtype conversion",
+    "reduced DPI visualization",
+    "reduced histogram bins",
+    "memory cleanup with plt.close()",
+    "debug mode disabled"
+  ]
+}
