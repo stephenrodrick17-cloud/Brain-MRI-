@@ -1,25 +1,9 @@
 {
   "patient_info": {
-    "Name": "Complete System Test",
-    "ID": "SYS-TEST-001"
+    "Name": "Sample Patient",
+    "ID": "SAMPLE001"
   },
-  "clinical_findings": "Complete end-to-end system test with all improvements - 3D CNN reconstruction with detailed visualizations and professional report generation.",
+  "clinical_findings": "Generated for demonstration",
   "segmentation": {
     "method": "Attention U-Net",
-    "coverage_percent": 98.4800033569336,
-    "confidence_score": 0.9964,
-    "area_pixels": 64543
-  },
-  "reconstruction": {
-    "method": "3D CNN Prediction",
-    "depth_estimation": "Edge-based",
-    "dimensions": [
-      32,
-      256,
-      256
-    ],
-    "thickness_mm": 10.0
-  },
-  "timestamp": "C:\\Users\\asus\\Downloads\\iit madras",
-  "status": "SUCCESS"
-}
+    "coverage_percent": 
